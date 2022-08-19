@@ -2,10 +2,10 @@
 int main()
 {
 	int n;
-	printf ("enter the class");
+	printf ("enter roll no");
 	scanf ("%d, &n");
-	if (n==1-15)
+	if (n==1--15)
 	printf ("student go to class5");
-	else if (n==15-25)
+	else if (n==16--25)
 	printf ("student go to class10");
 }
