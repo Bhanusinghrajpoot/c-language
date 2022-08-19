@@ -13,5 +13,5 @@ int main()
 	else if (n==4)
 	printf ("color is red ");
 	else
-	printf ("fuck you");
+	printf ("invalid choice");
 }
